@@ -1,0 +1,12 @@
+
+zmena hesla a dalsich
+
+
+oveření provedeni rezervace
+
+
+mozna predelat index aby bral z databaze
+
+dny v url
+
+aboutus
